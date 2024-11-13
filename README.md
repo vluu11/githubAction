@@ -27,7 +27,6 @@ The folder structure should look something like this:
 └── workflows
     └── main.yml
 ```
-
 ## Actions
 
 Our actions will be defined inside of our `main.yml` file. To begin, let's open up `main.yml` in our code editor. YAML is a recursive acronym that stands for "YAML Ain't Markup Language". YAML is human-readable syntax for data that is being stored or transmitted.
