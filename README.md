@@ -111,5 +111,4 @@ Now it's time to give our linter something to complain about! We will make some 
     ![Failed checks](Images/04-failed.png)
 
 ## Conclusion
-
 Congratulations on gaining experience with GitHub Actions! This powerful feature can become part of your CI/CD pipeline, providing valuable automation and efficiency. While you might not use it for every project, it can be especially useful for group projects or large organizations.
