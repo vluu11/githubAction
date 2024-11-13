@@ -13,5 +13,4 @@ function Advertisement(props: AdvertisementProps) {
     </div>
   );
 }
-
 export default Advertisement;
